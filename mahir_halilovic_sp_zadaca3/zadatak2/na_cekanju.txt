@@ -1,0 +1,12 @@
+Zadaca
+Zadaca iz struktura podataka, srijeda 10.05.2023.
+1255082265 1
+Zadaca
+Provjera zadace iz struktura u srijedu, 10.05.2023. u 14h
+522058245 3
+Test
+Test iz struktura u cetvrtak, 11.05.2023. u 11h
+1337412080 3
+Zadaca
+Zadaca iz algoritama, nedjelja 14.05.2023.
+1040440067 2
