@@ -1,6 +1,6 @@
 /***********************************************************
 
-  Mahir Halilovic
-  Strukture podataka 2022/23
+&emsp;&emsp;Mahir Halilovic  
+&emsp;&emsp;Strukture podataka 2022/23
 
 ***********************************************************/
